@@ -1,0 +1,1 @@
+Esse arquivo txt está sendo usado como teste de criptografia. Se estiver vendo essa mensagem o arquivo está descriptografado.
